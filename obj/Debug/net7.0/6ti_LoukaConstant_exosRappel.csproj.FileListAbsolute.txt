@@ -1,0 +1,15 @@
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\bin\Debug\net7.0\6ti_LoukaConstant_exosRappel.exe
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\bin\Debug\net7.0\6ti_LoukaConstant_exosRappel.deps.json
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\bin\Debug\net7.0\6ti_LoukaConstant_exosRappel.runtimeconfig.json
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\bin\Debug\net7.0\6ti_LoukaConstant_exosRappel.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\bin\Debug\net7.0\6ti_LoukaConstant_exosRappel.pdb
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\6ti_LoukaConstant_exosRappel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\6ti_LoukaConstant_exosRappel.AssemblyInfoInputs.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\6ti_LoukaConstant_exosRappel.AssemblyInfo.cs
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\6ti_LoukaConstant_exosRappel.csproj.CoreCompileInputs.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\6ti_LoukaConstant_exosRappel.sourcelink.json
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\6ti_LoukaConstant_exosRappel.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\refint\6ti_LoukaConstant_exosRappel.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\6ti_LoukaConstant_exosRappel.pdb
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\6ti_LoukaConstant_exosRappel.genruntimeconfig.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\6ti_LoukaConstant_ExosRappel\6ti_LoukaConstant_exosRappel\obj\Debug\net7.0\ref\6ti_LoukaConstant_exosRappel.dll
