@@ -34,7 +34,7 @@
                 if (methodes.Triangle(c1, c2, c3))
                 {
                     // préparation et affichage du résultat du test 'triangle' avec la procédure 'Affiche'
-                    methodes.Affiche(ok, "Ceci est un triangle", out infos);
+                    methodes.Affiche(ok, "triangle", out infos);
                     Console.WriteLine(infos);
 
                     // vérification équilatéral
@@ -44,12 +44,12 @@
                     {
                         // préparation et affichage du résultat du test 'equilateral' avec la procédure 'Affiche'
          
-                        methodes.Affiche(ok, "c'est un triangle equilateral", out infos);
+                        methodes.Affiche(ok, "equilateral", out infos);
                         Console.WriteLine(infos);
                     }
                     else
                     {
-                        methodes.Affiche(ok, "Ce n'est pas un triangle équilatéral", out infos);
+                        methodes.Affiche(ok, "equilateral", out infos);
                         Console.WriteLine(infos);
 
                         // vérification triangle rectangle
@@ -58,13 +58,13 @@
                         if (methodes.Equi(c1,c2,c3))
                         {
                             // préparation et affichage du résultat positif du test 'rectangle' avec la procédure 'Affiche'
-                            methodes.Affiche(ok, "C'est un triangle rectangle", out infos);
+                            methodes.Affiche(ok, "rectangle", out infos);
                             Console.WriteLine(infos);   
                         }
                         else
                         {
                             // préparation et affichage du résultat négatif du test 'rectangle' avec la procédure 'Affiche'
-                            methodes.Affiche(ok, "Ce n'est pas un triangle rectangle", out infos);
+                            methodes.Affiche(ok, "rectangle", out infos);
                             Console.WriteLine(infos);
                         }
                         // vérification du cas isocèle et affichage dans le cas positif
@@ -72,14 +72,14 @@
                         if (ok)
                         {
                             // préparation et affichage du résultat positif du test 'rectangle' avec la procédure 'Affiche'
-                            methodes.Affiche(ok, "Ceci est un triangle isocèle", out infos);
+                            methodes.Affiche(ok, "isocele", out infos);
                             Console.WriteLine(infos);
 
                         }
 
                         else
                         {
-                            methodes.Affiche(ok, "Ceci n'est pas un triangle isocèle", out infos);
+                            methodes.Affiche(ok, "isocele", out infos);
                             Console.WriteLine(infos);
                             //...
                             //...
@@ -92,7 +92,7 @@
                 }
                 else // si ce n'est pas un triangle
                 {
-                    methodes.Affiche(ok, "Ceci n'est pas un rectangle", out infos);
+                    methodes.Affiche(ok, "triangle", out infos);
                     Console.WriteLine(infos);
                 }
                 // reprise ?

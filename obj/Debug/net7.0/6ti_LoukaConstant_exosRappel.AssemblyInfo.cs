@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6ti_LoukaConstant_exosRappel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4276179b93ff086b84189555333bb5644a2c574")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5a2ef53349dc649aae5e14dfe07d95f3689d718")]
 [assembly: System.Reflection.AssemblyProductAttribute("6ti_LoukaConstant_exosRappel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6ti_LoukaConstant_exosRappel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
